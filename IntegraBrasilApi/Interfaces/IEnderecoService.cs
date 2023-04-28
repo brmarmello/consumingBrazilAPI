@@ -1,6 +1,6 @@
 namespace IntegraBrasilApi.Interfaces
 {
-    public interface IBancoService
+    public interface IEnderecoService
     {
         
     }
