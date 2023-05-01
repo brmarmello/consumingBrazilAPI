@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ng3CIIU/h/LUhJ6hVoP8y7RJW5y5MZaOHI3SLs2889ptkiPOTAN6ueWZoG1UVA4QDfe7AcxYl3mWFYbncDRgKg==",
+  "dgSpecHash": "+2rkToddDD+M7OTDLcaeQ8vxi6mknDNNP20E70huWHJEsO0UVpYCWeLZFBIBVbFwIc4LVxl/jRwyLXLrwDcd5g==",
   "success": true,
-  "projectFilePath": "c:\\Users\\brmar\\OneDrive\\Documentos\\src\\csharp-dotnet\\consumingBrazilAPI\\IntegraBrasilApi\\IntegraBrasilApi.csproj",
+  "projectFilePath": "C:\\Users\\brmar\\OneDrive\\Documentos\\src\\csharp-dotnet\\consumingBrazilAPI\\IntegraBrasilApi\\IntegraBrasilApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\brmar\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\brmar\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\12.0.1\\automapper.extensions.microsoft.dependencyinjection.12.0.1.nupkg.sha512",
