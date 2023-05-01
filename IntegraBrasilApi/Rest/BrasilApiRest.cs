@@ -31,11 +31,13 @@ namespace IntegraBrasilApi.Rest
             }
             return response;
         }
-        Task<ResponseGenerico<List<BancoModel>>> BuscarTodosOsBancos()
+
+        Task<ResponseGenerico<List<BancoModel>>> IBrasilApi.BuscarTodosOsBancos()
         {
             throw new NotImplementedException();
         }
-        Task<ResponseGenerico<BancoModel>> BuscarBanco(string codigoBanco)
+
+        Task<ResponseGenerico<BancoModel>> IBrasilApi.BuscarBanco(string codigoBanco)
         {
             throw new NotImplementedException();
         }
